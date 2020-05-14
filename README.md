@@ -1,0 +1,34 @@
+利用空余时间整理了一份《Java架构进阶核心知识点笔记》，初衷也很简单，就是希望在面试的时候能够帮助到大家，减轻大家的负担和节省时间。
+
+之前有分享过这份知识点笔记的初稿，现在又对知识点笔记进行了一定的优化。于是有了现在的V2.0版本的面试手册。当然除了在线版还有本地文档版本
+
+![](https://upload-images.jianshu.io/upload_images/11474088-1d457512352d1efa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 关于更新
+《Java架构进阶核心知识点笔记》 预计一个月左右会有一次内容更新和完善，**有需要本地文档pdf学习的朋友可以加Q群：895538573 管理处可以免费获取 或者加管理QQ：2032815844 免费获取！**
+
+点击链接加入群聊【Java架构技术学习交流】：https://jq.qq.com/?_wv=1027&k=DL1Se9Ix  或者加管理员微信：xue19992020 免费获取
+
+![](https://upload-images.jianshu.io/upload_images/11474088-8fe5bff11b4458a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+**废话不多说，Java架构进阶核心知识点笔记为第二版，内容有以下板块：**
+
+- [Dubbo面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Dubbo%E9%9D%A2%E8%AF%95.md)
+- [JVM面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/JVM%E9%9D%A2%E8%AF%95.md)
+- [Java并发面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Java%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
+- [Java集合面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Java%E9%9B%86%E5%90%88%E9%9D%A2%E8%AF%95.md)
+- [Kafka面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Kafka%E9%9D%A2%E8%AF%95.md)
+- [MongDB面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/MongDB%E9%9D%A2%E8%AF%95.md)
+- [MyBatis面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/MyBatis%E9%9D%A2%E8%AF%95.md)
+- [MySQL面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/MySQL%E9%9D%A2%E8%AF%95.md)
+- [Netty面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Netty%E9%9D%A2%E8%AF%95.md)
+- [RabbitMQ面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/RabbitMQ%E9%9D%A2%E8%AF%95.md)
+- [Redis面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Redis%E9%9D%A2%E8%AF%95.md)
+- [Spring Cloud面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Spring%20Cloud%E9%9D%A2%E8%AF%95.md)
+- [SpringBoot面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/SpringBoot%E9%9D%A2%E8%AF%95.md)
+- [Spring面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/Spring%E9%9D%A2%E8%AF%95.md)
+- [zookeeper面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/zookeeper%E9%9D%A2%E8%AF%95.md)
+- [大厂数据库面试专题](https://github.com/Java-xiaoluo/Java-note/blob/master/%E5%A4%A7%E5%8E%82%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95.md)
+- [常见面试算法题汇总专题](https://github.com/Java-xiaoluo/Java-note/blob/master/%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E7%AE%97%E6%B3%95%E9%A2%98%E6%B1%87%E6%80%BB.md)
+- [计算机网络基础专题](https://github.com/Java-xiaoluo/Java-note/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+- [设计模式专题](https://github.com/Java-xiaoluo/Java-note/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)

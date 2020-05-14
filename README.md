@@ -7,7 +7,7 @@
 ## 关于更新
 《Java架构进阶核心知识点笔记》 预计一个月左右会有一次内容更新和完善，**有需要本地文档pdf学习的朋友可以加Q群：895538573 管理处可以免费获取 或者加管理QQ：2032815844 免费获取！**
 
-点击链接加入群聊【Java架构技术学习交流】：https://jq.qq.com/?_wv=1027&k=DL1Se9Ix  或者加管理员微信：xue19992020 免费获取
+**点击链接加入群聊【Java架构技术学习交流】：https://jq.qq.com/?_wv=1027&k=DL1Se9Ix  或者加管理员微信：xue19992020 免费获取**
 
 ![](https://upload-images.jianshu.io/upload_images/11474088-8fe5bff11b4458a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
